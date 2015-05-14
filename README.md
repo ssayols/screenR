@@ -31,3 +31,9 @@ Usage
     2. Start editing an R script with Vim.
     3. Use the Vim-R-plugin as usual.
 
+Notes
+=====
+
+Based on the original work from Jakson Alves de Aquino.
+
+The Vim-R-plugin: http://www.lepem.ufc.br/jaa/vim-r-plugin.html 
