@@ -36,4 +36,4 @@ Notes
 
 Based on the original work from Jakson Alves de Aquino.
 
-The Vim-R-plugin: http://www.lepem.ufc.br/jaa/vim-r-plugin.html 
+The Vim-R-plugin: https://github.com/jalvesaq/Nvim-R
